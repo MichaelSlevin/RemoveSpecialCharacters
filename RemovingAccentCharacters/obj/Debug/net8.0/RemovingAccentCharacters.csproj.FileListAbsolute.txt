@@ -1,0 +1,14 @@
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\bin\Debug\net8.0\RemovingAccentCharacters.exe
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\bin\Debug\net8.0\RemovingAccentCharacters.deps.json
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\bin\Debug\net8.0\RemovingAccentCharacters.runtimeconfig.json
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\bin\Debug\net8.0\RemovingAccentCharacters.dll
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\bin\Debug\net8.0\RemovingAccentCharacters.pdb
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.AssemblyInfoInputs.cache
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.AssemblyInfo.cs
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.csproj.CoreCompileInputs.cache
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.dll
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\refint\RemovingAccentCharacters.dll
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.pdb
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\RemovingAccentCharacters.genruntimeconfig.cache
+C:\Users\MichaelSlevin\projects\3-personal\RemovingAccentCharacters\RemovingAccentCharacters\obj\Debug\net8.0\ref\RemovingAccentCharacters.dll
